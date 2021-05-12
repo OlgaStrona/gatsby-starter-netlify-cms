@@ -1,19 +1,16 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: O mnie
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Psycholog i psychoterapeuta
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Jestem psychologiem i certyfikowanym psychoterapeutą poznawczo - behawioralnym (certyfikat nr 742) w Polskim Towarzystwie Terapii Poznawczo-Behawioralnej (PTTPB) zgodnie ze standardami European Association for Behavioural and Cognitive Therapies (EABCT). Ukończyłam Wydział Psychologii Uniwersytetu im. Adama Mickiewicza w Poznaniu - specjalność kliniczna. oraz 4-letnie szkolenie w zakresie terapii poznawczo-behawioralnej w Szkole Psychoterapii Centrum CBT w Warszawie.Single origin
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Moja praca jest jednocześnie moją pasją
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Od ukończenia studiów ciągle doskonalę swoje umiejętności biorąc udział w różnego rodzaju szkoleniach i w regularnych superwizjach. Pracuję z osobami dorosłymi i młodzieżą zgłaszającymi problemy z lękiem, obniżonym nastrojem, samooceną, dolegliwościami psychosomatycznymi, stresem pourazowym, cierpiącymi z powodu trudności w relacjach czy przeżywającymi życiowe kryzysy. W obszarze moich zainteresowań leży także seksualność człowieka i w tym obszarze prowadzę psychoedukację oraz terapię.Direct sourcing
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Doświadczenie
+
+Doświadczenie zdobyłam w Poradniach Zdrowia Psychicznego dla Dorosłych, na Oddziale Dziennym Zaburzeń Nerwicowych w Warszawie, na Oddziale Dziennym Szpitala Wolskiego w Warszawie, na  Oddziale Psychiatrii Dorosłych Szpitala Klinicznego Uniwersytetu Medycznego w Poznaniu im. Karola  Jonschera w Poznaniu, w Wojewódzkim Szpitalu Neuropsychiatrycznym  im. ​Oskara Bielawskiego w Kościanie, w Wojewódzkim Szpitalu dla Nerwowo i Psychicznie Chorych Dziekanka w Gnieźnie, w Poznańskim Ośrodku Zdrowia Psychicznego oraz w Wielkopolskim Centrum Onkologii w Poznaniu.
