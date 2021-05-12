@@ -56,30 +56,29 @@ testimonials:
     author: Feras
 full_image: /img/woman-1733881_1280.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Cennik
+  description: Cena poszczególnej sesji jest uzależniona od czasu trwania oraz
+    rodzaju terapii.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Psychoterapia indywidualna
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - 1. cecha
+        - 2. cecha
+        - 3. cecha
+      plan: 50 minut
+      price: "180"
+    - description: Psychoterapia partnerska
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 1. cecha
+        - 2. cecha
+        - 3. cecha
+      plan: 90 minut
+      price: "250"
+    - description: Konsultacja psychologiczna
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
+        - 1. cecha
+        - 2. cecha
+        - 3. cecha
+      plan: 50 minut
+      price: "180"
 ---
