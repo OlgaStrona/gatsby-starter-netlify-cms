@@ -1,33 +1,18 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Tytuł artykułu
 date: 2016-12-17T15:04:10.000Z
+description: opis artykułu
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/woman-2094172_1920.jpg
 tags:
-  - flavor
-  - tasting
+  - tag1
+  - tag2
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/woman-2094172_1920.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Enim ut sem viverra aliquet eget sit. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. Integer eget aliquet nibh praesent tristique. Est ultricies integer quis auctor elit sed. Tristique senectus et netus et malesuada fames ac turpis. Volutpat lacus laoreet non curabitur gravida arcu ac. Massa sed elementum tempus egestas sed. Vitae turpis massa sed elementum. Suscipit tellus mauris a diam. Malesuada fames ac turpis egestas maecenas pharetra convallis posuere.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Vulputate dignissim suspendisse in est ante in nibh. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse. Urna neque viverra justo nec. Turpis egestas maecenas pharetra convallis posuere morbi leo. Egestas integer eget aliquet nibh. Urna id volutpat lacus laoreet non. Dapibus ultrices in iaculis nunc sed. Amet cursus sit amet dictum sit. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Donec massa sapien faucibus et molestie ac feugiat. Nunc id cursus metus aliquam eleifend mi in. Nibh cras pulvinar mattis nunc sed blandit libero volutpat sed. Enim lobortis scelerisque fermentum dui faucibus in ornare quam. Posuere urna nec tincidunt praesent semper feugiat nibh sed. Senectus et netus et malesuada fames. Tortor consequat id porta nibh venenatis cras sed felis.
 
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Et netus et malesuada fames. Porttitor eget dolor morbi non arcu risus. Eu ultrices vitae auctor eu. At erat pellentesque adipiscing commodo elit at. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Faucibus interdum posuere lorem ipsum dolor sit. Id neque aliquam vestibulum morbi blandit. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Faucibus scelerisque eleifend donec pretium vulputate. Sit amet massa vitae tortor condimentum. Id interdum velit laoreet id donec ultrices tincidunt arcu. Nec ullamcorper sit amet risus. Dictumst quisque sagittis purus sit amet volutpat. Dui nunc mattis enim ut. Bibendum enim facilisis gravida neque convallis. Mollis nunc sed id semper risus. Ac auctor augue mauris augue neque gravida in. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Tellus integer feugiat scelerisque varius.
