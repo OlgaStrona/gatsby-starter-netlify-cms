@@ -14,3 +14,5 @@ Od ukończenia studiów ciągle doskonalę swoje umiejętności biorąc udział 
 ### Doświadczenie
 
 Doświadczenie zdobyłam w Poradniach Zdrowia Psychicznego dla Dorosłych, na Oddziale Dziennym Zaburzeń Nerwicowych w Warszawie, na Oddziale Dziennym Szpitala Wolskiego w Warszawie, na  Oddziale Psychiatrii Dorosłych Szpitala Klinicznego Uniwersytetu Medycznego w Poznaniu im. Karola  Jonschera w Poznaniu, w Wojewódzkim Szpitalu Neuropsychiatrycznym  im. ​Oskara Bielawskiego w Kościanie, w Wojewódzkim Szpitalu dla Nerwowo i Psychicznie Chorych Dziekanka w Gnieźnie, w Poznańskim Ośrodku Zdrowia Psychicznego oraz w Wielkopolskim Centrum Onkologii w Poznaniu.
+
+![](/img/zdj_about.jpg)
