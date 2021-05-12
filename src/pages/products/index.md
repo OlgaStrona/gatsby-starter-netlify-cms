@@ -52,13 +52,13 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: ignore
-    image: /img/logo.svg
+    image: /img/jumbotron.jpg
   image2:
     alt: ignore
-    image: /img/logo.svg
+    image: /img/blog-index.jpg
   image3:
     alt: ignore
-    image: /img/logo.svg
+    image: /img/chemex.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
