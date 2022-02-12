@@ -9,14 +9,21 @@ description: "W ramach swojej działalności pomagam przezwyciężyć szeroki
 intro:
   blurbs:
     - image: /img/brain-5358296_640.png
-      text: Różnego rodzaju lęki
+      text: |-
+        Lęki, obniżony nastrój, depresje
+        Anxiety, depression
     - image: /img/mental-health-1420801_1280.jpg
-      text: Problemy związane z obniżoną samooceną
+      text: |-
+        Niska samoocena
+        Low self-esteem
     - image: /img/group-2351896_1280.png
-      text: Trudności w relacjach
+      text: |-
+        Trudności w relacjach
+        relationship problems
     - image: /img/mental-health-3813766_1280.png
       text: |
-        Życiowe kryzysy oraz traumy
+        Życiowe kryzysy, traumy
+        Life crisis, trauma
   heading: Ignore
   description: |
     Ignore
