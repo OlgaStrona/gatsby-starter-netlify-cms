@@ -2,10 +2,10 @@
 heading: Problemy, z którymi pomogę się uporać
 path: /products
 templateKey: product-page
-title: Terapie i Cennik
+title: Cennik
 image: /img/hero_products.png
 description: "W ramach swojej działalności pomagam przezwyciężyć szeroki
-  wachlarz zaburzeń natury psychicznej; w tym między innymi:"
+  wachlarz zaburzeń natury psychicznej, w tym między innymi:"
 intro:
   blurbs:
     - image: /img/brain-5358296_640.png
@@ -60,25 +60,17 @@ pricing:
   description: Cena poszczególnej sesji jest uzależniona od czasu trwania oraz
     rodzaju terapii.
   plans:
-    - description: Psychoterapia indywidualna
-      items:
-        - 1. cecha
-        - 2. cecha
-        - 3. cecha
-      plan: 50 minut
+    - description: 50 min
+      items: []
+      plan: Psychoterapia indywidualna online/Individual psychotherapy online
       price: "180"
-    - description: Psychoterapia partnerska
-      items:
-        - 1. cecha
-        - 2. cecha
-        - 3. cecha
-      plan: 90 minut
+    - description: 80 min
+      items: []
+      plan: Psychoterapia par online/Relationship psychotherapy online
       price: "250"
-    - description: Konsultacja psychologiczna
-      items:
-        - 1. cecha
-        - 2. cecha
-        - 3. cecha
-      plan: 50 minut
-      price: "180"
+    - description: 50 min
+      items: []
+      plan: Psychoterapia indywidualna w języku angielskim online/Individual
+        psychotherapy online
+      price: "260"
 ---
