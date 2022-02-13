@@ -47,27 +47,3 @@ Emocje i skojarzone z nimi procesy poznawcze są powiązane w pamięci tak, że 
 Negatywne emocje przejawiane w stosunku do dziecka, takie jak nienawiść, złość czy myśli np. o zrobieniu mu krzywdy, poczucie winy czy rozpacz to jedne z powodów, dla których kobiety dotknięte depresją poporodową tak niechętnie szukają pomocy. W obawie przed odrzuceniem społecznym, oskarżeniem o bycie złą matką, starają się ukrywać swoje cierpienie. 
 
 Te wszystkie czynniki rozpatrujemy tworzą model konceptualizacji problemu pacjentki i plan terapii. W postępowaniu psychoterapeutycznym podejmujemy różnorodne działania -zarówno w polu poznawczym, jak i behawioralnym czy rodzinnym. Elementy poznawcze nastawione są np. na analizę myśli automatycznych, identyfikowanie przekonań kluczowych, oraz wykazanie ich znaczenia dla reakcji emocjonalnych i działania, zmianę dysfunkcjonalnych przekonań, rozwijanie korzystnych strategii adaptacyjnych. Elementy behawioralne – na planowanie aktywności, techniki relaksacyjne, aktywności, które sprawiają przyjemność, treningi umiejętności społecznych czy prace domowe.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Antonovsky A. (1995). Rozwikłanie tajemnicy zdrowia. Jak radzić sobie ze stresem i nie zachorować. Warszawa: Fundacjo iPN.
-
-Antonovsky A. (1997). Poczucie koherencji jako determinanta zdrowia, \[w:] I. Heszen-Niejodek, H. Sęk (red.). Psychologia zdrowia, 206-231. Warszawa: PWN.
-
-Kaplan H.J., Sadock B.J. (1998). Psychiatria kliniczna. Wrocław: Urban & Partner.
-
-Steiner M, Yonkers K: Depresja u kobiet; Via Medica, Gdańsk 1999 (tłum. Dr hab.n.przyr. Maria Bnińska);
-
-Strelau J. (red.), Psychologia, t. 3, GWP, Gdańsk 2007.
-
-Walinga J., Stangor C. Introduction to psychology.  Chapter 16. Stress, Health, and Coping
