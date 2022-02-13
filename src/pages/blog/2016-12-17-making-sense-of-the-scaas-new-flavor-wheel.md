@@ -26,10 +26,10 @@ W procesie radzenia sobie z sytuacją stresową najpierw pojawia się reakcja kr
 
 W tak zwanym modelu Lazarusa wydarzenie samo w sobie nie musi być stresujące,  natomiast znaczenie przypisywane symptomom fizycznym lub doświadczeniu fizjologicznemu na skutek pierwotnej oceny poznawczej już tak. Interpretacja może być pozytywna (eustres) lub negatywna (dystres). Stresem =  relacja między osobą a otoczeniem, która oceniana jest przez osobę jako obciążająca lub przekraczająca jej zasoby i zagrażająca jej dobrostanowi”. Odporność ma tu odzwierciedlenie w psychologicznych konstruktach osobowości takich jak: ulokowanie kontroli, poczucie koherencji, własna oczekiwana skuteczność, optymizm dyspozycyjny. W modelu Lazarusa jednostka może oceniać sytuację jako: 
 
-\- krzywdę – dotyczy kobiet, które ciążę postrzegają jako niesprawiedliwość, np. matki niepełnoletnie. Towarzyszy im poczucie krzywdy, a następnie poczucie winy; 
+\- krzywdę – dotyczy kobiet, które ciążę postrzegają jako niesprawiedliwość, np. matki niepełnoletnie. Towarzyszy im poczucie krzywdy i poczucie winy; 
 
-\- zagrożenie – dzieje się tak w przypadku kobiet, które boją się o zdrowie swoje i dziecka, obawiają się tego, co ich czeka, przewidują groźne sytuacje w przyszłości. Odczuwają głównie lęk; 
+\- zagrożenie – dzieje się tak w przypadku kobiet, które boją się o zdrowie swoje i dziecka. Odczuwają głównie lęk; 
 
 \- stratę – dotyczy kobiet (zazwyczaj aktywnych, samodzielnych, rozwijających się zawodowo), dla których ciąża to utrata wolności, sylwetki, możliwości odpoczynku – przeżywają one uczucie żalu;
 
-\- wyzwanie – taką interpretację odnajdą w sobie waleczne przyszłe matki, traktujące ciążę jako zadanie do wykonania, okazję do wykazania się, do spełnienia cudzych i własnych oczekiwań oraz planów życiowych. Budzi się w nich wola walki, mobilizacja.
+\- wyzwanie – waleczne przyszłe matki, traktujące ciążę jako zadanie do wykonania, okazję do wykazania się, do spełnienia cudzych i własnych oczekiwań oraz planów życiowych. Budzi się w nich wola walki, mobilizacja.
