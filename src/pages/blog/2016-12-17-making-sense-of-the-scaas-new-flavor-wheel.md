@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: DEPRESJA POPORODOWA
 date: 2022-02-13T19:40:52.192Z
-description: Kiedy wyczekany okres życia zamienia się w koszmar...
+description: Kiedy wyczekiwany z radością okres życia zamienia się w koszmar...
 featuredpost: false
 featuredimage: /img/pexels-puwadon-sangngern-5340280.jpg
 tags:
@@ -44,6 +44,6 @@ Jeśli po porodzie „nieradzenie sobie” wykracza poza to, co kobieta zna z do
 
 Emocje i skojarzone z nimi procesy poznawcze są powiązane w pamięci tak, że kiedy aktywowany jest nastrój, reprezentacje wydarzeń i procesów poznawczych mogą stać się także dostępne. Co za tym idzie aktywowane przekonania (np. jestem do niczego, jestem złą matką, jestem niekompetentna, jestem nieatrakcyjna, jestem beznadziejna) mogą powodować nadwrażliwość na sygnały i komunikaty potwierdzające treść przekonań (nowa rola matki, zmiany w ciele, nowe obowiązki, płacz dziecka i inne nowe "bodźce"), a co za tym idzie – ich wzmacnianie dysfunkcjonalnych przekonań.  „Jestem złą matką” to chyba główna myśl tysięcy cierpiących na depresje poporodową kobiet. Pojawia się poczucie winy, lęk przed odrzuceniem, poczucie osamotnienia, bycia „inną”. 
 
-Negatywne emocje przejawiane w stosunku do dziecka, takie jak nienawiść, złość czy myśli np. o zrobieniu mu krzywdy, poczucie winy czy rozpacz to jedne z powodów, dla których kobiety dotknięte depresją poporodową tak niechętnie szukają pomocy. W obawie przed odrzuceniem społecznym, oskarżeniem o bycie złą matką, starają się ukrywać swoje cierpienie. 
+**Negatywne** **emocje** przejawiane w stosunku do dziecka, takie jak nienawiść, złość czy myśli np. o zrobieniu mu krzywdy, poczucie winy czy rozpacz to jedne z powodów, dla których kobiety dotknięte depresją poporodową tak niechętnie szukają pomocy. W obawie przed odrzuceniem społecznym, oskarżeniem o bycie złą matką, starają się ukrywać swoje cierpienie. 
 
-Te wszystkie czynniki rozpatrujemy tworzą model konceptualizacji problemu pacjentki i plan terapii. W postępowaniu psychoterapeutycznym podejmujemy różnorodne działania -zarówno w polu poznawczym, jak i behawioralnym czy rodzinnym. Elementy poznawcze nastawione są np. na analizę myśli automatycznych, identyfikowanie przekonań kluczowych, oraz wykazanie ich znaczenia dla reakcji emocjonalnych i działania, zmianę dysfunkcjonalnych przekonań, rozwijanie korzystnych strategii adaptacyjnych. Elementy behawioralne – na planowanie aktywności, techniki relaksacyjne, aktywności, które sprawiają przyjemność, treningi umiejętności społecznych czy prace domowe.
+Te wszystkie czynniki rozpatrujemy tworzą model konceptualizacji problemu pacjentki i plan **terapii**. W postępowaniu psychoterapeutycznym podejmujemy różnorodne działania -zarówno w polu poznawczym, jak i behawioralnym czy rodzinnym. Elementy poznawcze nastawione są np. na analizę myśli automatycznych, identyfikowanie przekonań kluczowych, oraz wykazanie ich znaczenia dla reakcji emocjonalnych i działania, zmianę dysfunkcjonalnych przekonań, rozwijanie korzystnych strategii adaptacyjnych. Elementy behawioralne – na planowanie aktywności, techniki relaksacyjne, aktywności, które sprawiają przyjemność, treningi umiejętności społecznych czy prace domowe.
