@@ -50,7 +50,7 @@ Emocje i skojarzone z nimi procesy poznawcze są powiązane w pamięci tak, że 
 
 Negatywne emocje przejawiane w stosunku do dziecka, takie jak nienawiść, złość czy myśli np. o zrobieniu mu krzywdy, poczucie winy czy rozpacz to jedne z powodów, dla których kobiety dotknięte depresją poporodową tak niechętnie szukają pomocy. W obawie przed odrzuceniem społecznym, oskarżeniem o bycie złą matką, starają się ukrywać swoje cierpienie. 
 
-Te wszystkie czynniki rozpatrujemy tworzą model konceptualizacji problemu pacjentki i plan terapii. W postępowaniu psychoterapeutycznym podejmujemy różnorodne działania -zarówno w polu poznawczym, jak i behawioralnym czy rodzinnym. Elementy poznawcze nastawione są np. na analizę mysli automatycznych, identyfikowanie przekonań kluczowych, oraz wykazanie ich znaczenia dla reakcji emocjonalnych i działania, zmianę dysfunkcjonalnych przekonań, rozwijanie korzystnych strategii adaptacyjnych. Elementy behawioralne – na planowanie aktywności, techniki relaksacyjne, aktywności, które sprawiają przyjemność, treningi umiejętności społecznych czy prace domowe.
+Te wszystkie czynniki rozpatrujemy tworzą model konceptualizacji problemu pacjentki i plan terapii. W postępowaniu psychoterapeutycznym podejmujemy różnorodne działania -zarówno w polu poznawczym, jak i behawioralnym czy rodzinnym. Elementy poznawcze nastawione są np. na analizę myśli automatycznych, identyfikowanie przekonań kluczowych, oraz wykazanie ich znaczenia dla reakcji emocjonalnych i działania, zmianę dysfunkcjonalnych przekonań, rozwijanie korzystnych strategii adaptacyjnych. Elementy behawioralne – na planowanie aktywności, techniki relaksacyjne, aktywności, które sprawiają przyjemność, treningi umiejętności społecznych czy prace domowe.
 
 
 
