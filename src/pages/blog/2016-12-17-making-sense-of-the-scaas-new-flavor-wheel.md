@@ -1,16 +1,14 @@
 ---
 templateKey: blog-post
-title: Tytuł artykułu
+title: DEPRESJA POPORODOWA
 date: 2022-02-13T19:40:52.192Z
-description: opis artykułu
+description: Kiedy wyczekany okres życia zamienia się w koszmar...
 featuredpost: false
 featuredimage: /img/pexels-puwadon-sangngern-5340280.jpg
 tags:
   - depresja poporodowa
 ---
-![flavor wheel](/img/pexels-puwadon-sangngern-5340280.jpg)
-
-DEPRESJA POPORODOWA
+![flavor wheel](/img/pexels-puwadon-sangngern-5340280.jpg "DEPRESJA POPORODOWA")
 
 Dane WHO wskazują, że kobiety dwa razy częściej zapadają na depresję niż mężczyźni, czemu sprzyjają różne okresy zmian hormonalnych. Występowanie zaburzeń depresyjnych i lękowych wzrasta u kobiet w wieku prokreacyjnym i aż 80% kobiet doświadcza wahań nastroju w czasie ciąży i po urodzeniu dziecka.  
 
