@@ -1,13 +1,13 @@
 ---
 templateKey: index-page
 title: Olga Grączeska
-image: /img/main_hero.jpg
+image: /img/pexels-esralogy-9398456.jpg
 heading: Moje certyfikaty
 subheading: Psycholog, Psychoterapeuta
 mainpitch:
   title: Terapia dla dorosłych i młodzieży
   description: Jako psycholog i certyfikowany psychoterapeuta, oferuję pomoc w
-    zakresie wielu trudności o podłożu psychicznym. Prowadzę także terapie oraz
+    zakresie wielu trudności o podłożu psychicznym. Prowadzę także terapię oraz
     psychoedukację w obszarze seksualności.
 description: Regularnie doskonale swoją wiedzę i umiejętności, biorąc udział w
   szkoleniach i superwizjach.
