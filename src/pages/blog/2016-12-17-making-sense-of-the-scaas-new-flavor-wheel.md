@@ -33,3 +33,61 @@ W tak zwanym modelu Lazarusa wydarzenie samo w sobie nie musi być stresujące, 
 \- stratę – dotyczy kobiet (zazwyczaj aktywnych, samodzielnych, rozwijających się zawodowo), dla których ciąża to utrata wolności, sylwetki, możliwości odpoczynku – przeżywają one uczucie żalu;
 
 \- wyzwanie – waleczne przyszłe matki, traktujące ciążę jako zadanie do wykonania, okazję do wykazania się, do spełnienia cudzych i własnych oczekiwań oraz planów życiowych. Budzi się w nich wola walki, mobilizacja.
+
+Pozostająca pod wpływem stresora, w omawianej sytuacji kobieta w ciąży i matka małego dziecka, dokonuje także oceny wtórnej, czyli oszacowania swoich zasobów na trudne sytuacje (pytanie: „jak sobie z tym poradzę?”): zasoby psychiczne, fizyczne, materialne i społeczne.
+
+Do zasobów psychicznych, sprzyjających skutecznemu radzeniu sobie w ciąży i po porodzie, należą elastyczność, otwartość na zmiany, a zwłaszcza dobra samoocena. Kobietom w tym szczególnym okresie życia przydają się również inne umiejętności społeczne, takie jak: zdolność do nawiązywania satysfakcjonujących relacji z ludźmi; sprawna komunikacja z otoczeniem; umiejętność planowania i realizowania celów oraz rozwiązywania problemów; skuteczne radzenie sobie ze stresem; umiejętność zwracania się po wsparcie i pomoc. Brak wyżej wymienionych umiejętności może negatywnie wpływać na stan psychiczny kobiet w ciąży i matek małych dzieci.
+
+Jeśli po porodzie „nieradzenie sobie” wykracza poza to, co kobieta zna z doświadczenia, powinna poszukać pomocy. Kobiety z neurotycznymi cechami osobowości, czyli nadwrażliwe, z pesymistycznym obrazem świata i siebie, lękowe, czy też perfekcjonistki są bardziej narażone na występowanie poporodowych zaburzeń nastroju. Bywa również tak, że kobieta zagubiona i w poczuciu lęku, jeśli ma niezbyt dobry kontakt z własnymi emocjami, może nie zauważać lub zaprzeczać, że przeżywa coś trudnego. Zdarza się także, że młoda mama uważa, że „tak ma być” i nie może w żaden sposób sytuacji zmienić. Działania podejmowane w takiej sytuacji polegają głównie na ukrywaniu własnych uczuć, nawet przed sobą samą. Pojawia się negatywne sprzężenie zwrotne – im bardziej kobieta stara się ukryć swój stan emocjonalny, tym jest jej trudniej. Takie próby poradzenia sobie ze stresem w ciąży czy po porodzie, mogą zaowocować wzrostem napięcia i nasileniem objawów lęku, drażliwości albo obniżonego nastroju.
+
+Wsparcie innych osób, rodziny i przyjaciół, pracodawcy, a także wsparcie społeczne i różnych instytucji pomocowych to kolejny, bardzo istotny składnik zasobów odporności.
+
+
+
+
+
+
+
+Stres może być bezpośrednim czynnikiem koniecznym, który aktywuje podatność na depresję.. Może być swego rodzaju „wyzwalaczem” depresji. Depresja  pojawia się jako konsekwencja przeciążenia organizmu stresem. Model podatności na stres Lazarusa i Folkman zakłada, iż człowiek posiada określone strategie radzenia sobie ze stresem. Są to stale zmieniające się poznawcze i behawioralne wysiłki, mające na celu opanowanie określonych zewnętrznych i wewnętrznych wymagań, ocenianych przez osobę jako obciążające lub przekraczające jej zasoby.
+
+Negatywna ocena poznawcza bodźca stresogennego wiąże się z wystąpieniem depresji. Podatność na czynniki stresujące zależy od typu organizacji osobowości, źródeł samoceny i poczucia kompetencji, wsparcia społecznego, itp. Te wszystkie czynniki rozpatrujemy tworzą model konceptualizacji problemu pacjenta i plan terapii. Jednak w niniejszym wniosku wskazujemy, iż stresujące wydarzenia życiowe, jakim jest z jednej strony poród, z drugiej zaś związane z okresem okołoporodowym wypadanie włosów może „torować” drogę dla negatywnych schematów poznawczych wykształconych w dzieciństwie (myślenia o sobie, sytuacji i przyszłości).
+
+Emocje i skojarzone z nimi procesy poznawcze są powiązane w pamięci tak, że kiedy aktywowany jest nastrój, reprezentacje wydarzeń i procesów poznawczych mogą stać się także dostępne. Co za tym idzie aktywowane przekonania (np. jestem do niczego, jestem złą matką, jestem niekompetentna, jestem nieatrakcyjna, jestem beznadziejna) mogą powodować nadwrażliwość na sygnały i komunikaty potwierdzające treść przekonań (nowa rola matki, łysienie, zmiany w ciele), a co za tym idzie – ich wzmacnianie dysfunkcjonalnych przekonań. 
+
+Proces zmagania się ze stresem ma swoje odpowiedniki fizjologiczne. Interpretacje rzeczywistości dokonywane w ośrodkowym układzie nerwowym przekazywane są do układu limbicznego. Wzrost pobudzenia emocjonalnego to aktywacja wzorców zachowań, wzorców odpowiedzi ze strony układu nerwowego i hormonalnego. Hormony wydzielane pod wpływem stresu, jak np. kortyzol, silnie oddziałują na komórki odpornościowe. Stres zmniejsza opór ze strony układu immunologicznego a jeśli jest silny i utrzymuje się stale – może długotrwale obniżyć jego sprawność. Zaoszczędzoną energię z komórek odpornościowych organizm może wykorzystać w potencjalnie zagrażającej sytuacji. Behawioralne i neurochemiczne wzorce emocji stanowią osiowy proces, który kształtuje nasze zdrowie. 
+
+Stres psychologiczny moduluje funkcjonowanie układu odpornościowego. Badania interdyscyplinarne pokazują, że przewlekłe doświadczanie stresu działa hamująco na jego funkcjonowanie \[31]. Doświadczanie stresów życiowych odgrywa znacząca rolę w etiologii zaburzeń depresyjnych. Badania pokazują, że depresja kliniczna jest związana ze zmianami odporności na poziomie komórkowym, wzrostem ilości białych krwinek.
+
+W postępowaniu psychoterapeutycznym podejmujemy różnorodne działania -zarówno w polu poznawczym, jak i behawioralnym czy rodzinnym. Elementy poznawcze nastawione są np. na analizę mysli automatycznych, identyfikowanie przekonań kluczowych, oraz wykazanie ich znaczenia dla reakcji emocjonalnych i działania, zmianę dysfunkcjonalnych przekonań, rozwijanie korzystnych strategii adaptacyjnych. Elementy behawioralne – na planowanie aktywności, techniki relaksacyjne, aktywności, które sprawiają przyjemność, treningi umiejętności społecznych czy prace domowe.
+
+
+
+
+
+**Przekonania, myśli, emocje**
+
+ „Jestem złą matką” to główna myśl tysięcy cierpiących na depresje poporodową kobiet. Pojawia się poczucie winy, lęk przed odrzuceniem, poczucie osamotnienia, bycia „inną”. Otoczenie nie podejrzewa, iż kobieta dotknięta jest chorobą. 
+
+Negatywne emocje przejawiane w stosunku do dziecka, takie jak nienawiść, złość czy myśli np. o zrobieniu mu krzywdy, poczucie winy czy rozpacz to jedne z powodów, dla których kobiety dotknięte depresją poporodową tak niechętnie szukają pomocy. W obawie przed odrzuceniem społecznym, oskarżeniem o bycie złą matką, starają się ukrywać swoje cierpienie. 
+
+
+
+
+
+
+
+
+
+
+
+Antonovsky A. (1995). Rozwikłanie tajemnicy zdrowia. Jak radzić sobie ze stresem i nie zachorować. Warszawa: Fundacjo iPN.
+
+Antonovsky A. (1997). Poczucie koherencji jako determinanta zdrowia, \[w:] I. Heszen-Niejodek, H. Sęk (red.). Psychologia zdrowia, 206-231. Warszawa: PWN.
+
+Kaplan H.J., Sadock B.J. (1998). Psychiatria kliniczna. Wrocław: Urban & Partner.
+
+Steiner M, Yonkers K: Depresja u kobiet; Via Medica, Gdańsk 1999 (tłum. Dr hab.n.przyr. Maria Bnińska);
+
+Strelau J. (red.), Psychologia, t. 3, GWP, Gdańsk 2007.
+
+Walinga J., Stangor C. Introduction to psychology.  Chapter 16. Stress, Health, and Coping
