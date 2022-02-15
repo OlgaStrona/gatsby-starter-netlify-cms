@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Olga Grączeska
-image: /img/pexels-esralogy-9398456.jpg
+image: /img/main_hero.jpg
 heading: Moje certyfikaty
 subheading: Psycholog, Psychoterapeuta
 mainpitch:
