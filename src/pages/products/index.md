@@ -68,15 +68,18 @@ pricing:
     rodzaju terapii.
   plans:
     - description: 50 min
-      items: []
+      items:
+        - "1"
       plan: Psychoterapia indywidualna online/Individual psychotherapy online
       price: "180"
     - description: 80 min
-      items: []
+      items:
+        - "2"
       plan: Psychoterapia par online/Relationship psychotherapy online
       price: "250"
     - description: 50 min
-      items: []
+      items:
+        - "3"
       plan: Psychoterapia indywidualna w języku angielskim online/Individual
         psychotherapy online
       price: "260"
